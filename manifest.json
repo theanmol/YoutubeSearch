@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
 
-  "name": "Search youtube Plugin",
+  "name": "SearchYoutube",
   "description": "This extension makes searching for youtube vedios faster",
   "version": "1.0",
 
@@ -21,6 +21,7 @@
   },
   "permissions": [
    "activeTab",
+   "tabs",
    "http://suggestqueries.google.com/complete/*"
    ]
 }
