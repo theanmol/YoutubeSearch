@@ -1,6 +1,6 @@
 body,
 html {
-	height: 100px;
+	height: 150px;
 	width: 200px;
 	background: #ffffff;
 	font-family: 'Lato', sans-serif;
@@ -10,8 +10,6 @@ html {
 	display: block;
 	position: absolute;
 	margin: auto;
-	
-	
 }
 
 h2 {
@@ -23,7 +21,7 @@ h2 {
 	list-style: none;
 	height: 100%;
 	width: 100%;
-	margin: 0;
+	margin: ;
 	padding: 0;
 }
 ul label:hover li {
@@ -38,11 +36,16 @@ ul label {
 }
 
 ul label li{
-
-	
 	font-weight: 100;
 	font-size: 1.25em;
-	
+}
+p{
+	margin-top:50px;
+	font-weight: 100;
+	font-size: 1.25em;
+}
+#tabProfile{
 
-	
+	margin-top: 10px;
+
 }
